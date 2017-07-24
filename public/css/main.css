@@ -175,7 +175,6 @@ body {
 @media (min-width: 768px) and (max-width: 991px) {
   #header nav ul.menu li {
     display: block;
-    float: none;
   }
 }
 
